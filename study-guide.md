@@ -17,5 +17,5 @@ Git commands
 - clone: TODO
 
 GitHub operations
-- fork: TODO
+- fork: Create a github repository that is a copy of another repository.
 - pull-request: TODO
