@@ -1,21 +1,21 @@
 # Study Guide
 
 Git commands
-- add: TODO
-- commit: TODO
-- log: TODO
-- status: TODO
-- branch: TODO
-- checkout: TODO
-- push: TODO
-- pull: TODO
-- merge: TODO
-- fetch: TODO
-- remote: TODO
-- reset: TODO
-- revert: TODO
-- clone: TODO
+- add: Tracks all files
+- commit: saves yuor changes
+- log: Shows all the commits
+- status: Everything current;y in repository.
+- branch: seperating your work by creating a branch
+- checkout: Switch branches 
+- push: updates the remote
+- pull: fetch from repository
+- merge: joins two or more things
+- fetch: downloads objects and refernces from another repository
+- remote: manages repositorys
+- reset: reset current head to certain state
+- revert: Reverts some existing commits
+- clone: Cloning repository into new directory
 
 GitHub operations
-- fork: TODO
-- pull-request: TODO
+- fork: Creates a seperate repository for you to work on
+- pull-request: Lets you tell others about changes you pushed
