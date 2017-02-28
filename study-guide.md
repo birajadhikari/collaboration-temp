@@ -3,7 +3,7 @@
 Git commands
 - add: TODO
 - commit: TODO
-- log: TODO
+- log: Shows all prior commits
 - status: TODO
 - branch: TODO
 - checkout: TODO
