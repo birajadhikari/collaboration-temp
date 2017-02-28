@@ -11,7 +11,7 @@ Git commands
 - pull: TODO
 - merge: TODO
 - fetch: TODO
-- remote: TODO
+- remote: point to an online repository that we can use to update our local repository
 - reset: TODO
 - revert: TODO
 - clone: TODO
