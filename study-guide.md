@@ -2,7 +2,7 @@
 
 Git commands
 - add: TODO
-- commit: TODO
+- commit: adds the changes to the files
 - log: Shows all prior commits
 - status: TODO
 - branch: creates a new branch
