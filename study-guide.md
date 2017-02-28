@@ -5,7 +5,7 @@ Git commands
 - commit: TODO
 - log: TODO
 - status: TODO
-- branch: TODO
+- branch: creates a new branch
 - checkout: TODO
 - push: TODO
 - pull: TODO
